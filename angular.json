@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "absa"
+    }
+  },
+  "defaultProject": "absa",
+  "cli": {
+    "analytics": false
+  }
 }
